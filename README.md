@@ -15,8 +15,8 @@ A public web page with six sections:
 |---|---|
 | Home | Irene Padilla, student, ipadilla39@itfip.edu.co Your name, your role, your links |
 | About | I'm friendly, and I love the career I chose.  Two or three sentences about you |
-| Skills | Your technical and professional skills |
-| Resume | Your education and your experience |
+| Skills |I'm good at programming. Your technical and professional skills |
+| Resume | I am in my fourth semester. Your education and your experience |
 | Projects | The projects you have built |
 | Contact | How people can reach you |
 
