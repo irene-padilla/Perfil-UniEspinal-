@@ -13,8 +13,8 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | Two or three sentences about you |
+| Home | Irene Padilla, student, ipadilla39@itfip.edu.co Your name, your role, your links |
+| About | I'm friendly, and I love the career I chose.  Two or three sentences about you |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
