@@ -17,7 +17,7 @@ A public web page with six sections:
 | About | I'm friendly, and I love the career I chose.  Two or three sentences about you |
 | Skills |I'm good at programming. Your technical and professional skills |
 | Resume | I am in my fourth semester. Your education and your experience |
-| Projects | I am in my fourth semester. The projects you have built |
+| Projects | finance-Movil. The projects you have built |
 | Contact | How people can reach you |
 
 ---
