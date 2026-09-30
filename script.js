@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "holaaaaaaaa    [Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
+  "about.text":           "Actualmente estudio Desarrollo de Software y me apasiona la creación de aplicaciones web con un fuerte enfoque en el frontend y la experiencia de usuario. Me interesa especialmente el ecosistema de JavaScript, el uso de frameworks modernos como React y el diseño de interfaces accesibles e intuitivas. Ahora mismo estoy buscando una primera oportunidad laboral o un proyecto colaborativo donde pueda aportar valor, aprender de otros desarrolladores y continuar impulsando mi carrera.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "[Ciudad], Colombia",
