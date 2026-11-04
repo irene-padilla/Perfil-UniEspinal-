@@ -101,7 +101,8 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "I am currently studying Software Development and am passionate about creating web applications, with a strong focus on frontend development and user experience. I am particularly interested in the JavaScript ecosystem, the use of modern frameworks like React, and the design of accessible, intuitive interfaces. I am currently seeking my first professional opportunity or a collaborative project where I can contribute value, learn from other developers, and continue to advance my career.
+",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "[City], Colombia",
